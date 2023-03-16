@@ -1,2 +1,3 @@
-$ git init 
-Initializws jhifhihrgivj
+- [] turn github
+- [] outline
+- [] world
